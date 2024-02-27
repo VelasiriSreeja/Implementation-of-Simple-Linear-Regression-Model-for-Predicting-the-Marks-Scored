@@ -77,20 +77,32 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![Screenshot (44)](https://user-images.githubusercontent.com/118344328/229673784-c73994cb-9e96-4774-af70-5b924d7ee59a.png)
 
-![Screenshot (45)](https://user-images.githubusercontent.com/118344328/229674852-a891db5f-b5e2-45a9-97cf-62e244edfaf6.png)
+![Screenshot 2024-02-27 085913](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/0bd34387-2535-4e1a-aa79-738b4397bdd4)
 
-![Screenshot (46)](https://user-images.githubusercontent.com/118344328/229674349-a230a4d9-5df8-4fb9-9473-72e746ac1442.png)
 
-![Screenshot (48)](https://user-images.githubusercontent.com/118344328/229674401-8e682631-8315-461d-bae2-2700c82c4ac0.png)
+![Screenshot 2024-02-27 085936](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/798f0f88-c225-4dd6-b316-eacdea5fba3e)
 
-![Screenshot (49)](https://user-images.githubusercontent.com/118344328/229674424-58a4e271-9a8e-44a5-8647-a2264674b7a5.png)
 
-![Screenshot (51)](https://user-images.githubusercontent.com/118344328/229674454-346aa5d1-7d07-4554-84d6-0c387a88af00.png)
+![Screenshot 2024-02-27 090001](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/0d4bbb61-d86a-443f-9cc2-6827ed356adf)
 
-![Screenshot (52)](https://user-images.githubusercontent.com/118344328/229674504-86aeceea-172a-4489-94cd-326a29020859.png)
 
+![Screenshot 2024-02-27 090021](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/c9249934-ac2a-4f91-b4ab-f46f327b10f0)
+
+
+![Screenshot 2024-02-27 090046](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/6fad4a6f-bd90-4510-ac7b-1a3571b6d57e)
+
+
+![1j](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/e1ef005e-ba16-4073-ab89-a88cc14687d1)
+
+
+![Screenshot 2024-02-27 090141](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/14038c33-cd4f-455e-b8d0-3de255364244)
+
+
+![Screenshot 2024-02-27 090158](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/5a7a0b32-6684-4ce1-96ad-71b9ba9f6061)
+
+
+![1q](https://github.com/VelasiriSreeja/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118344328/de2ecb53-e301-40dd-8418-3d1bacd2af8c)
 
 
 
